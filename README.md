@@ -1,6 +1,6 @@
 ## [Sorting Algorithm Visualizer](https://sorting-algorithms-viz.web.app/)
 An Web Application used to visualize common sorting algorithms, built with React, Javascript, and hosted with Google Firebase.
-I built this to aid me and some peers for technical interviews.
+I built this to aid me and some peers for technical interviews and exams.
 
 ## Project Screen Shot(s)
 
