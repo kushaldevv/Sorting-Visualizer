@@ -1,0 +1,33 @@
+.nav-container {
+  background: linear-gradient(
+    0deg,
+    hsla(173, 58%, 39%, 0) 0%,
+    hsla(214, 35%, 37%, 1) 100%
+  );
+  height: 3.5rem;
+  padding-top: 1.5rem;
+}
+.nav {
+  margin: 0 auto;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+li:first-child{
+    border-right: solid 1px white;
+}
+
+li a {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  font-weight: 800;
+  color: white;
+  padding: 0 12px;
+}
+
+li a:hover {
+  color: black;
+}
